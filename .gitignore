@@ -1,0 +1,6 @@
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+skill_inventory*.txt
+skill_inventory*.json

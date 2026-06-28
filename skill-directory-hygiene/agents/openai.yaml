@@ -1,0 +1,3 @@
+display_name: Skill Directory Hygiene
+short_description: Clean up skill directories and enforce download rules.
+default_prompt: Audit my local skills, reduce top-level skill noise with routers, and apply the skill download policy.
